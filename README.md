@@ -1,3 +1,3 @@
 # rahit
-This is my fast project
+This is my fast project.
 Author-Rohit Mukherjee
